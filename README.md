@@ -1,4 +1,4 @@
-<p align="center"><a href="https://craftcms.com/" target="_blank"><img width="312" height="90" src="https://craftcms.com/craftcms.svg" alt="Craft CMS"></a></p>
+# README
 
 ## About Craft CMS
 
@@ -12,16 +12,19 @@ See the Craft 3 documentation for [installation](https://docs.craftcms.com/v3/in
 
 ## Resources
 
-#### Official Resources
-- [Craft 3 Documentation](https://docs.craftcms.com/v3/)
-- [Craft 3 Class Reference](https://docs.craftcms.com/api/v3/)
-- [Craft 3 Plugins](https://plugins.craftcms.com)
-- [Demo site](https://demo.craftcms.com/)
-- [Craft Slack](https://craftcms.com/community#slack)
-- [Craft CMS Stack Exchange](http://craftcms.stackexchange.com/)
+### Official Resources
 
-#### Community Resources
-- [Mijingo](https://mijingo.com/craft) – Video courses and other learning resources
-- [Envato Tuts+](https://webdesign.tutsplus.com/categories/craft-cms/courses) – Video courses
-- [Straight Up Craft](http://straightupcraft.com/) – Articles, tutorials, and more
-- [pluginfactory.io](https://pluginfactory.io/) – Craft plugin scaffold generator
+* [Craft 3 Documentation](https://docs.craftcms.com/v3/)
+* [Craft 3 Class Reference](https://docs.craftcms.com/api/v3/)
+* [Craft 3 Plugins](https://plugins.craftcms.com)
+* [Demo site](https://demo.craftcms.com/)
+* [Craft Slack](https://craftcms.com/community#slack)
+* [Craft CMS Stack Exchange](http://craftcms.stackexchange.com/)
+
+### Community Resources
+
+* [Mijingo](https://mijingo.com/craft) – Video courses and other learning resources
+* [Envato Tuts+](https://webdesign.tutsplus.com/categories/craft-cms/courses) – Video courses
+* [Straight Up Craft](http://straightupcraft.com/) – Articles, tutorials, and more
+* [pluginfactory.io](https://pluginfactory.io/) – Craft plugin scaffold generator
+
